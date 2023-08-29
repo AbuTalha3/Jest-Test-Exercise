@@ -19,3 +19,5 @@ export default class calc {
 let features = branch.merge({
   learn.git
 }
+
+//adding git flow branches
